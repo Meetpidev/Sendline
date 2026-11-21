@@ -1,0 +1,8 @@
+{
+  "name": "Sendline",
+  "description": "WhatsApp wa.me broadcast dispatch platform with CSV contact importing, PDF and image attachment links, one-click batch sending, and real-time recipient delivery tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

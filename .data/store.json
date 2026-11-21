@@ -1,0 +1,67 @@
+{
+  "campaigns": [
+    {
+      "id": "cmp_q4_catalog",
+      "name": "Q4 Product Catalog & Price List",
+      "message": "Hello {{name}},\n\nOur updated Q4 product catalog and wholesale price list for is now ready.\n\nReply directly to this message if you would like to reserve priority dispatch slots this week.",
+      "defaultCountryCode": "91",
+      "createdAt": "2026-11-20T06:03:44.820Z",
+      "updatedAt": "2026-11-20T07:38:08.160Z",
+      "settings": {
+        "mode": "queue",
+        "intervalSeconds": 3,
+        "burstSize": 5,
+        "includeMediaLink": true,
+        "includeTrackingLinkWhenNoMedia": false,
+        "autoConfirmSent": false
+      },
+      "attachments": [
+        {
+          "id": "att_9d87f006c9a4",
+          "originalName": "Gujarati Theater Masks Emblem.png",
+          "storedName": "1795160288115_d4453c3148ef.png",
+          "mimeType": "image/png",
+          "size": 1444787,
+          "uploadedAt": "2026-11-20T07:38:08.160Z",
+          "downloadCount": 0
+        }
+      ],
+      "recipients": [
+        {
+          "id": "rcp_eb2a5d617936",
+          "name": "",
+          "rawPhone": "917990325292",
+          "phone": "917990325292",
+          "customFields": {},
+          "status": "dispatched",
+          "whatsappMessageIds": [],
+          "dispatchedAt": "2026-11-20T07:18:44.830Z",
+          "sentAt": null,
+          "deliveredAt": null,
+          "readAt": null,
+          "openedAt": null,
+          "failedReason": null,
+          "openCount": 0,
+          "updatedAt": "2026-11-20T07:33:43.829Z"
+        },
+        {
+          "id": "rcp_8101c584bd8a",
+          "name": "",
+          "rawPhone": "918469324380",
+          "phone": "918469324380",
+          "customFields": {},
+          "status": "dispatched",
+          "whatsappMessageIds": [],
+          "dispatchedAt": "2026-11-20T07:18:50.792Z",
+          "sentAt": null,
+          "deliveredAt": null,
+          "readAt": null,
+          "openedAt": null,
+          "failedReason": null,
+          "openCount": 0,
+          "updatedAt": "2026-11-20T07:18:50.792Z"
+        }
+      ]
+    }
+  ]
+}
